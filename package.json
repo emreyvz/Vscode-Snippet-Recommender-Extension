@@ -9,6 +9,7 @@
 	"categories": [
 		"Other"
 	],
+	"publisher": "EmreYavuz",
 	"activationEvents": [
 		"onCommand:snippet-suggest-by-text.fetchSnippet"
 	],
@@ -17,7 +18,7 @@
 		"commands": [
 			{
 				"command": "snippet-suggest-by-text.fetchSnippet",
-				"title": "Hello World"
+				"title": "Get Code Snippet Recommendation"
 			}
 		],
 		"keybindings": [
