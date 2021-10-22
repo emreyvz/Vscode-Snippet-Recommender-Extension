@@ -10,7 +10,9 @@ This VS Code extension bring code snippets into the editor for selected keywords
 **How to use**
 
 Type keywords into document
+
 Select typed keywords
+
 Press CTRL + ALT + W  (SHIFT + CMD + W for Mac) 
 
 
