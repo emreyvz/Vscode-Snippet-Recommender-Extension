@@ -35,4 +35,4 @@ Press CTRL + ALT + W  (SHIFT + CMD + W for Mac)
 
 - Snippets are fetching from [Stackoverflow](https://stackoverflow.com)
 - **[Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0)**
-- Copyright 2021 © Emre Yavuz
+- 2021 © Emre Yavuz
